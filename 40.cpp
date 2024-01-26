@@ -16,7 +16,6 @@ int main()
     else 
     {
         long long factorial = 1;
-
         // Calculate factorial using a nested loop
         for (int i = 1; i <= num; ++i)
         {
