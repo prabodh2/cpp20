@@ -9,10 +9,8 @@ int main() {
     cin >> r;
     cout << "Enter the number of columns: ";
     cin >> c;
-
     // Declare a 2D matrix
     int matrix[r][c];
-
     // Input the matrix elements
     cout << "Enter the elements of the matrix: " << endl;
     for (int i = 0; i < r; i++) {
