@@ -7,7 +7,6 @@ using namespace std;
 // Starting point of the program
 int main(){
     int n , k; // Variables to store the number of elements in the array and the rank of the desired smallest number
-
     // Prompt the user to enter the number of elements they want in the array
     cout<<"Enter the range of array ";
     cin>>n;  // Read the user input for number of elements
