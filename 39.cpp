@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
     int n;
-
     cout << "Enter the number of rows for the pyramid: ";
     cin >> n;
 
@@ -13,6 +12,5 @@ int main() {
             cout << j; // Print numbers
         cout << endl;
     }
-
     return 0;
 }
