@@ -23,7 +23,6 @@ int main() {
     cout << "Invalid conversion direction." << endl;
     return 0;
   }
-
   // Print the converted temperature
   cout << "The converted temperature is: " << converted_temperature << endl;
 
