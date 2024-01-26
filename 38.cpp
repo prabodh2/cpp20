@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
     int num, originalNum, reversedNum = 0, remainder;
-
     // Input the number
     cout << "Enter a number: ";
     cin >> num;
