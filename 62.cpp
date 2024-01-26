@@ -15,7 +15,6 @@ void segregateEvenOdd(int arr[], int size)
         {
             left++;
         }
-
         // Move right index to the left while arr[right] is odd
         while (arr[right] % 2 != 0 && left < right) 
         {
